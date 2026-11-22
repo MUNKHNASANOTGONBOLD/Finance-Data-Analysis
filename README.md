@@ -1,10 +1,6 @@
 # Finance Data Analysis
 
-End-to-end exploratory data analysis, cleaning, standardization, feature engineering, and visualization on a real-world, messy finance transactions dataset.
-
-## Objective
-
-Take a raw, inconsistent transactions dataset and turn it into a clean, standardized, analysis-ready dataset, then surface business insights through aggregation and visualization.
+I used 5,002 synthetic practice records to work through duplicate rows, missing values, inconsistent labels, and malformed emails. The [notebook](Finance_Data_Analysis.ipynb) shows how I cleaned the data and calculated net amounts and fee percentages.
 
 ## Dataset
 
